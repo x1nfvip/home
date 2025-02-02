@@ -36,10 +36,10 @@ menuIcon.onclick = () => {
 
 //     Email.send({
 //         Host : "smtp.elasticemail.com",
-//         Username : "riccardo.mortier1@gmail.com",
-//         Password : "C26FE9B0FD3622137218127607331960DE6D",
-//         To : 'riccardo.mortier1@gmail.com',
-//         From: 'riccardo.mortier1@gmail.com',
+//         Username : "rayblanco322@gmail.com",
+//         Password : "C0D67C6325950056B2AD8CA821AAEC30EE70",
+//         To : 'rayblanco322@gmail.com',
+//         From: 'rayblanco322@gmail.com',
 //         Subject : subject.value,
 //         Body : bodyMessage
 //     }).then(
