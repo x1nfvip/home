@@ -186,7 +186,7 @@ span {
     position: relative;
 }
 .text-animation span::before {
-    content: "Discord Bot/Web Developer";
+    content: "Seller/Reseller";
     color: var(--main-color);
     animation: words 20s infinite;
 }
@@ -208,23 +208,23 @@ span {
 @keyframes words {
     0%,
     20% {
-        content: "Web/Bot Developer";
+        content: "Seller/Reseller";
     }
     21%,
     40% {
-        content: "Web/Bot Developer";
+        content: "Seller/Reseller";
     }
     41%,
     60% {
-        content: "Web/Bot Developer";
+        content: "Seller/Reseller";
     }
     61%,
     80% {
-        content: "Web/Bot Developer";
+        content: "Seller/Reseller";
     }
     81%,
     100% {
-        content: "Web/Bot Developer";
+        content: "Seller/Reseller";
     }
 }
 @keyframes typing {
