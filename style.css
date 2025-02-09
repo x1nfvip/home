@@ -208,23 +208,23 @@ span {
 @keyframes words {
     0%,
     20% {
-        content: "Seller/Reseller";
+        content: "Ethical Hacker";
     }
     21%,
     40% {
-        content: "Seller/Reseller";
+        content: "Learning Multipule Stuff";
     }
     41%,
     60% {
-        content: "Seller/Reseller";
+        content: "The world of cybersecurity";
     }
     61%,
     80% {
-        content: "Seller/Reseller";
+        content: "Rias, is my pooks!";
     }
     81%,
     100% {
-        content: "Seller/Reseller";
+        content: "Discord.gg/Owlsec";
     }
 }
 @keyframes typing {
